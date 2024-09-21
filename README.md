@@ -1,2 +1,2 @@
 # ModularQt
-Support pluginable apps build with qt.
+Support pluginable apps build with qt
